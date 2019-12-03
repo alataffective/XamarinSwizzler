@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E1B4D71D-EF6D-4319-973C-029D0D06E09E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinSwizzler/ViewController.designer.cs">
+    <Files>
+      <File FileName="XamarinSwizzler/AppDelegate.cs" Line="19" Column="1" />
+      <File FileName="XamarinSwizzler/Main.cs" Line="3" Column="26" />
+      <File FileName="XamarinSwizzler/Main.storyboard" Line="15" Column="56" />
+      <File FileName="XamarinSwizzler/Swizzler.cs" Line="30" Column="13" />
+      <File FileName="XamarinSwizzler/ViewController.cs" Line="5" Column="26" />
+      <File FileName="XamarinSwizzler/ViewController.designer.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinSwizzler" expanded="True">
+            <Node name="XamarinSwizzler" expanded="True">
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinSwizzler PreferredExecutionTarget="Test1" />
+</Properties>

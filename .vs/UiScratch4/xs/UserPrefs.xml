@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E1B4D71D-EF6D-4319-973C-029D0D06E09E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UiScratch4/Swizzler.cs">
+    <Files>
+      <File FileName="UiScratch4/AppDelegate.cs" Line="17" Column="1" />
+      <File FileName="UiScratch4/ViewController.cs" />
+      <File FileName="UiScratch4/ViewController.designer.cs" />
+      <File FileName="UiScratch4/WaveView.cs" />
+      <File FileName="UiScratch4/Swizzler.cs" Line="34" Column="24" />
+      <File FileName="UiScratch4/SwizzledObj.cs" />
+      <File FileName="UiScratch4/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UiScratch4" expanded="True">
+            <Node name="UiScratch4" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Swizzler.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+              <Node name="WaveView.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UiScratch4 PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

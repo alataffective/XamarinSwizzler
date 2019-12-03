@@ -1,0 +1,12 @@
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/actool/_PartialAppManifest.items
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/XamarinSwizzler.csprojAssemblyReference.cache
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/UiScratch4.exe
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/obj/Debug/UiScratch4.pdb
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/bin/Debug/UiScratch4.exe
+/Users/alanfransham/Projects/Experiments/XamarinSwizzler/XamarinSwizzler/bin/Debug/UiScratch4.pdb

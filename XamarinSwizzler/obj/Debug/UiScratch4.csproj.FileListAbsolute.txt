@@ -1,0 +1,12 @@
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/bin/Debug/UiScratch4.exe
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/bin/Debug/UiScratch4.pdb
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/actool/_PartialAppManifest.items
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/UiScratch4.exe
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/UiScratch4.pdb
+/Users/alanfransham/Projects/UiScratch4/UiScratch4/obj/Debug/UiScratch4.csprojAssemblyReference.cache
